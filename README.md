@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Acerca de mi
 
--  **Aprendizaje :** Desarrollador Full-Stack :zap: |  AWS Cloud Practitioner :fire:	
+-  **Aprendizaje :**  Full-Stack Dev :zap: |  AWS  :fire:	| CyberSecurity 🤖
 -  **Lenguajes :** JavaScript
 -  **Hobbies :** Fútbol ⚽ & Musica :headphones:
 -  **Fact :** Primero resuelve el problema, luego escribe el código. :heart: 
