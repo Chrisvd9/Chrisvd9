@@ -25,6 +25,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+
 ![Nextjs](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor)
 ![React-Query](https://img.shields.io/badge/-React_Query-000000?style=flat&logo=react-query)
 ![Tailwind](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
@@ -34,6 +35,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
